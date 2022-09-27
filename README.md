@@ -1,2 +1,2 @@
 # dicoding_project
-Repository for storing all project created by following [https://www.dicoding.com/](dicoding) course.
+Repository for storing all project created by following [dicoding](https://www.dicoding.com/) course.
